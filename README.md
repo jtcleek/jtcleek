@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a Solutions Delivery Engineer<br>- 📚 I'm currently learning Kubernetes<br>- ⚡ In my free time I homelab</p>
+<p align="left">- 🔭 I’m working as an Application Delivery Engineer<br>- 📚 I'm currently learning Kubernetes<br>- ⚡ In my free time I homelab</p>
 
 ###
 
